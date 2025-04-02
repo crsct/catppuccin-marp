@@ -3,7 +3,6 @@
 @import "default";
 @import "schema";
 @import "structure";
-@import url('https://unpkg.com/@catppuccin/palette/css/catppuccin.css');
 
 :root {
   --ctp-frappe-rosewater: #f2d5cf;

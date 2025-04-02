@@ -3,7 +3,6 @@
 @import "default";
 @import "schema";
 @import "structure";
-@import url('https://unpkg.com/@catppuccin/palette/css/catppuccin.css');
 
 :root {
   --ctp-macchiato-rosewater: #f4dbd6;
